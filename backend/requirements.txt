@@ -48,7 +48,6 @@ pandas==2.2.3
 pillow==10.4.0
 protobuf==5.28.3
 pyarrow==18.0.0
-PyAudio==0.2.14
 PyAutoGUI==0.9.54
 pydantic==2.9.2
 pydantic_core==2.23.4
